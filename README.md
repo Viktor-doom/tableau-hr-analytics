@@ -24,7 +24,7 @@ Develop a dashboard for the Human Resources department that displays key KPIs an
 ## Screenshots
 | KPI Overview | Scatter Analysis | At-Risk Employees |
 |---------------|------------------|-------------------|
-| ![KPI](Dashboard/Screenshots/kpi_overview.png) | ![Scatter](Dashboard/Screenshots/scatter_analysis.png) | ![Table](Dashboard/Screenshots/at_risk_table.png) |
+| ![KPI](Dashboard/Screenshoots/kpi_overview.png) | ![Scatter](Dashboard/Screenshoots/scatter_analysis.png) | ![Table](Dashboard/Screenshoots/at_risk_table.png) |
 
 ## Publication
 You can explore the interactive dashboard on Tableau Public:
